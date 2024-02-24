@@ -1,7 +1,28 @@
 ---
 toc: false 
+about:
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/taylor-kim-b7a406221/
+    - icon: github
+      text: GitHub
+      url: https://github.com/taylorhkim3
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:taylorhkim3@gmail.com" 
+      
+image: profile-picture.png
 ---
-
-
+ 
+## Heading 1 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
+Attached is my current [CV](/docs/CV/CV.pdf "CV")
+
+## Heading 2
+
+
