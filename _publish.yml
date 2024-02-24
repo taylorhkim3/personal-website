@@ -1,5 +1,5 @@
 - source: project
   netlify:
     - id: 0e9c876d-1bb0-4eb6-b564-360497263b5b
-      url: 'https://taylor-kim.netlify.app'
+      url: 'taylorkim.netlify.app'
  
