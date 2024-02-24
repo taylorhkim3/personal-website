@@ -1,6 +1,4 @@
----
-title: "About"
----
 
-About this site
+This is an about page. 
+Write your information down
 

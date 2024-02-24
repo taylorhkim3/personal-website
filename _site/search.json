@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "",
     "section": "",
-    "text": "About this site"
+    "text": "This is an about page. Write your information down"
   },
   {
     "objectID": "projects.html",
@@ -18,13 +18,6 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "index.html#title-of-website",
-    "href": "index.html#title-of-website",
-    "title": "",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
