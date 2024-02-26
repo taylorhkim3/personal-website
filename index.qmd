@@ -16,13 +16,12 @@ about:
 image: profile-picture.png
 ---
  
-## Heading 1 
+## Taylor Kim
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
+I am currently a third year at University of California, Los Angeles (UCLA), double majoring in Statistics & Data Science and Cognitive Science. 
 
 Attached is my current [CV](/docs/CV/CV.pdf "CV")
 
-## Heading 2
+
 
 

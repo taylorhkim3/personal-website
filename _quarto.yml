@@ -5,13 +5,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: About
       - href: projects.qmd
         text: Projects
-      - href: about.qmd
-        text: About
-      - href: blogs.qmd
-        text: Blog
+      - href: coursework.qmd
+        text: Coursework
         
   page-footer:
     right: "&copy; 2024, Taylor Kim"

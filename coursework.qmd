@@ -1,0 +1,17 @@
+## Coursework: 
+
+University of California, Los Angeles
+
+- COM SCI 31: Introduction to Computer Science I (Winter 2022)
+- PSYCH 100A: Psychological Statistics with R (Winter 2022)
+- PSYCH 20A/B: Advanced Matlab Programming (Summer-Fall 2022)
+- STATS 20: Programming with R (Fall 2022)
+- MATH 33A: Linear Algebra & Applications 
+- STATS 100A: Introduction to Probability (Fall 2022)
+- STATS 100B: Mathematical Statistics (Winter 2023)
+- STATS 101A: Data Analysis & Regression (Winter 2023)
+- STATS 100C: Linear Models (Spring 2023)
+- STATS 101B: Design & Analysis of Experiment (Spring 2023)
+- STATS 102: Survival Statistics (Fall 2023)
+- STATS 102A: Computational Statistics (Winter 2024)
+- STATS 140XP: Statistical Consulting (Winter 2024)
