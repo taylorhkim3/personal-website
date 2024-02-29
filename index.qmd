@@ -18,7 +18,7 @@ image: profile-picture.png
  
 ## Taylor Kim
 
-I am currently a third year at University of California, Los Angeles (UCLA), double majoring in Statistics & Data Science and Cognitive Science. 
+I am currently a third year undergraduate student at University of California, Los Angeles (UCLA), double majoring in Statistics & Data Science and Cognitive Science. 
 
 Attached is my current [CV](/docs/CV/CV.pdf "CV")
 

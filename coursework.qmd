@@ -1,6 +1,6 @@
 ## Coursework: 
 
-University of California, Los Angeles
+### University of California, Los Angeles
 
 - COM SCI 31: Introduction to Computer Science I (Winter 2022)
 - PSYCH 100A: Psychological Statistics with R (Winter 2022)
