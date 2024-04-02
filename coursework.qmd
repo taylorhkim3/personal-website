@@ -15,3 +15,6 @@
 - STATS 102: Survival Statistics (Fall 2023)
 - STATS 102A: Computational Statistics (Winter 2024)
 - STATS 140XP: Statistical Consulting (Winter 2024)
+- STATS 141XP: Practice of Statistical Consulting (Spring 2024)
+- PSYCH 186A: Cognitive Science Laboratory: Introduction to Theory and Simulation (Spring 2024)
+- STATS 102B: Computation and Optimization for Statistics (Spring 2024)
