@@ -1,6 +1,10 @@
 
 ## Past Projects: 
 
+[Automated Resume Screener: Winter 2024](/docs/ResumeScreener/ResumeScreener.pdf "ResumeScreener.pdf")
+
+- Performed sentiment analysis to count the occurrences of professionalism and confidence keywords in each resume. 
+
 [Disaster Tweets NLP: Fall 2022](/docs/NLP/NLPTweets.pdf "NLPTweets.pdf")
 
 - Utilize NLP to classify tweets with disaster-related words as disaster and non-disaster. 
